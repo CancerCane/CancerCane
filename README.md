@@ -1,6 +1,6 @@
 - 👋 Hi, I’m L."Cane" Paul
 - 👀 I’m interested in see below.
-- 🌱 I’m currently learning HTML, CSS, Linux, Js, and all things technolize (sic). Not in that order.
+- 🌱 I’m currently learning HTMX, HTML, CSS, Linux, Js, and all things technolize (sic). Not in that order.
 - 💞️ I’m looking to collaborate on life and the great beyond.
 - 📫 How to reach me. catch me if you can.
 
